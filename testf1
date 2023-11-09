@@ -1,0 +1,7 @@
+total 368
+-rw-r--r--  1 tiqin  2023_heilbronn   1987 Nov  9 16:38 main.c
+-rw-r--r--  1 tiqin  2023_heilbronn    535 Nov  9 08:17 makefile
+-rw-r--r--  1 tiqin  2023_heilbronn   1821 Nov  8 01:43 prase.c
+-rw-r--r--  1 tiqin  2023_heilbronn   1740 Nov  8 00:39 prase_write.c
+-rw-r--r--  1 tiqin  2023_heilbronn   1584 Nov  8 00:04 signal.c
+-rw-r--r--  1 tiqin  2023_heilbronn   1030 Nov  7 23:59 signal1.c
